@@ -1,0 +1,37 @@
+El functions el neha2ia ll project 
+
+2-logout 
+3-register ✅
+4-caller identification (name) ✅
+5- caller identification (number) ✅
+6- save new contact 
+7- Flash messaging✅
+8- call recording ✅
+9- add contact ✅
+10- edit contact ✅
+11 - delete contact (view) ✅
+12-block contact (view) ✅
+13-view (contact)✅
+14- View (user profile) ✅
+15-report contact (view)✅
+16- spam contact (view)
+17- search (view) ✅
+18- edit profile ✅
+19- favourite contacts✅
+20- protect number 
+21- message (chat) ✅
+22- voice (chat) ✅
+23 - call log ✅
+24- emergency call ✅
+25 - unblock contact 
+26- delete account ✅
+27- share contact (view) 
+28- change language ✅
+29- rate application ✅
+30- private profile ✅
+31- call reminder ✅
+32- who viewed my profile ✅
+33- delete call from call log 
+34- group call (add people) ✅
+35- delete message✅
+36- view contact call history✅

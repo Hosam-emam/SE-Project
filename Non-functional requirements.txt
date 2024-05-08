@@ -1,0 +1,47 @@
+non-functional requirements:
+
+
+1-Performance:
+
+The system should respond to user actions, such as logout, registration, and call identification, within an acceptable time frame.
+The system should handle a large number of concurrent users without significant performance degradation.
+Flash messaging should have low latency to ensure real-time communication.
+
+2-Security:
+
+User data, including contact information and call recordings, should be securely stored and protected from unauthorized access.
+User authentication and authorization mechanisms should be implemented to ensure the privacy and integrity of user accounts.
+The system should support secure communication protocols to protect sensitive information during transmission.
+
+3-Reliability:
+
+The system should have high availability, ensuring that users can access the service whenever they need it.
+It should have mechanisms to recover from failures and handle errors gracefully without losing user data or compromising system functionality.
+Call recording should be reliable and accurate, ensuring that all necessary calls are recorded without loss or corruption of data.
+
+4-Usability:
+
+The user interface should be intuitive, user-friendly, and accessible to a wide range of users.
+The system should provide clear and meaningful error messages to assist users in troubleshooting issues.
+Language localization should be supported to accommodate users from different regions.
+
+5-Scalability:
+
+The system should be able to handle an increasing number of users, contacts, and call logs without significant performance degradation.
+It should support the addition of new features and modules without requiring extensive modifications to the existing system architecture.
+
+6-Maintainability:
+
+The system should be modular and well-documented to facilitate future enhancements, bug fixes, and maintenance tasks.
+Code readability, consistency, and adherence to coding standards should be maintained throughout the development process.
+
+7-Compatibility:
+
+The system should be compatible with different operating systems, web browsers, and devices to accommodate a wide range of users.
+Integration with external systems or APIs, such as third-party contact databases or messaging services, should be supported.
+
+8-Data Integrity:
+
+The system should ensure the accuracy, consistency, and integrity of user data, including contact information, call logs, and user profiles.
+Proper backup and recovery mechanisms should be in place to prevent data loss or corruption.
+These are just a few examples of non-functional requirements that can be associated with the given functional requirements. The actual non-functional requirements may vary depending on the specific needs and context of the system being developed.
